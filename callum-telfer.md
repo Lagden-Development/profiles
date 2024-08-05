@@ -1,5 +1,3 @@
-# Hi there, I'm Callum. 👋
+# Hello World, i'm Callum 👋
 
-An enthusiastic digital production, design, and development student based in the UK. In addition to my studies, I also serve as a code coach at [Jam Coding](https://jamcoding.co.uk/) where I help provide better coding education for the younger generation. I also volunteer at Bundle Group, contributing to events like Coaster Con which supports the Extra Life charity.
-
-
+I am a developer from the United Kingdom and i am passionate about creating open-source projects. I am currently studying for a T level in Digital Production, Design and Development at Farnborough College of Technology. I work at [Jam Coding](https://jamcoding.co.uk) as a Code Coach where i help children learn to code. I also am the founder of [Callum Telfer Development](https://github.com/Callum-Telfer-Development)
